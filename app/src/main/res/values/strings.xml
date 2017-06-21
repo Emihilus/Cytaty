@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Cytaty ks. Jana Berthiera</string>
+    <string-array name="spinner">
+        <item>Cytat dnia</item>
+        <item>Cytat dnia w kolejności losowej</item>
+        <item>Cytat dnia z ulubionych</item>
+        <item>Cytat dnia z ulubionych losowo</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="spinner_kolejnosc">
+        <item>Po kolei</item>
+        <item>Losowo</item>
+    </string-array>
+
+    <string-array name="spinner_ints">
+        <item>24h</item>
+        <item>12h</item>
+        <item>10h</item>
+        <item>8h</item>
+        <item>6h</item>
+        <item>4h</item>
+        <item>2h</item>
+        <item>1h</item>
+        <item>30min</item>
+        <item>test - 10s</item>
+    </string-array>
+
+    <string name="wlt"><![CDATA[<p>Jean Berthier przyszedł na świat 24 lutego 1840 r. w Châtonnay w południowo-wschodniej Francji. Bardzo szybko zapragnął zostać księdzem. Jesienią 1853 roku wstąpił do Niższego Seminarium Duchownego w La Côte, a cztery lata później przestąpił próg Wyższego Seminarium Duchownego w Grenoble. Jako kleryk odbył z kolegami pieszą pielgrzymkę na górę La Salette, gdzie w roku 1846 objawiła się Matka Boża. Tu odżyły wspomnienia babci, która opowiadała mu o Płaczącej Pani.</p>
+
+<p>W trzy miesiące po otrzymaniu święceń diakonatu wstąpił do nowicjatu OO. Saletynów. Jeszcze w nowicjacie otrzymał święcenia kapłańskie z rąk ks. biskupa Giroulhiac, a w niespełna trzy lata później złożył swoją pierwszą profesję zakonną.</p>
+<p>Młodego kapłana-zakonnika nurtował problem spóźnionych powołań oraz tych młodych ludzi, którzy ze względu na swój stan majątkowy nie mogli zostać kapłanami. Ponieważ nie mógł nic w tych kwestiach uczynić we własnym Zgromadzeniu podjął decyzję o założeniu nowego Zgromadzenia. Zachwycony projektem nowego dzieła papież Leon XIII zażądał niezwłocznej realizacji przedsięwzięcia. 20 sierpnia 1905 roku odbyły się święcenia pierwszych trzech diakonów w nowym Zgromadzeniu.</p>
+<p>Trzy lata później, 16 października 1908 roku, Ks. Jan Berthier umiera. Pracowite życie zakonnika, misjonarza-rekolekcjonisty, autora wielu książek naukowych i popularnych, a przede wszystkim założyciela nowej wspólnoty zakonnej, uwieńczone zostaje wspaniałą nagrodą - Misjonarze Świętej Rodziny nieprzerwanie głoszą Słowo Boże w wielu krajach świata, a otaczając duszpasterską opieką rodziny, ukazują im Świętą Rodzinę z Nazaretu jako wzór zawierzenia Bogu i troski o drugiego człowieka.</p>
+<p>16 grudnia 1950 roku rozpoczął się proces beatyfikacyjny Ks. Jana Berthiera. Odtąd przysługuje mu tytuł Sługi Bożego.</p>
+<p>Osoby, które doznały łaski Bożej przez wstawiennictwo Sługi Bożego Ks. Jana Berthiera, prosimy o nadesłanie informacji pod adres:</p>
+<p>Kuria Prowincjalna Misjonarzy Świętej Rodziny<br />ul. Małoszyńska 27<br />Skr. poczt. 43<br />60-176 Poznań 47</p>
+<p><a href="mailto:kuria@msf.opoka.org.pl" style="color:blue">e-mail: kuria@msf.opoka.org.pl</a></p> ]]></string>
+    <string name="kat_1">Cnoty</string>
+    <string name="kat_2">Maryja</string>
+    <string name="kat_3">Modlitwa, pobożnożność, życie sakramentalne i duchowe</string>
+    <string name="kat_4">Posłuszeństwo, szacunek dla przełożonych, karność zakonna</string>
+    <string name="kat_5">Pycha, egoizm, skupienie się tylko na sobie i własnym zdaniu</string>
+    <string name="kat_6">Święta Rodzina</string>
+    <string name="kat_7">Różne wskazania</string>
+    <string name="kat_8">Ideały, doskonałość, uświęcenie</string>
+    <string name="kat_9">Powołanie do życia zakonnego, uwagi dla zakonników</string>
+    <string name="kat_10">Życie wspólnoty zakonnej</string>
+    <string name="kat_11">Wola Boża, miłość do Boga, obumarcie dla własnej woli i siebie samego</string>
+    <string name="kat_12">Misje i misjonarze</string>
+    <string name="kat_13">Miłość bliźniego, miłosierdzie, dobre wychowanie</string>
+    <string name="kat_14">Nauka i studia</string>
+    <string name="kat_15">Kapłaństwo, kazania, misje ludowe</string>
+    <string name="kat_16">Praca</string>
+    <string name="kat_17">Pokora, skromność, opanowanie</string>
+    <string name="kat_18">Reguła, Konstytucje, regulamin</string>
+    <string name="kat_20">Umartwienie, przezwyciężenie natury i siebie samego</string>
+    <string name="kat_21">Wady i przywiązanie się do stworzeń</string>
+</resources>

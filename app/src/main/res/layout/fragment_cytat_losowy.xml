@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+
+              android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/output"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="18sp"
+        android:padding="8dp"/>
+
+    </ScrollView>
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="New Text"
+            android:id="@+id/textView5"
+            android:padding="5dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/button_wg"
+            android:src="@drawable/ic_bag"
+            android:id="@+id/bprv"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="losuj"
+            android:padding="2dp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/button_wg"
+            android:src="@drawable/ic_rfg"
+            android:id="@+id/blosuj"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_nxtg"
+            android:layout_gravity="bottom"
+            android:padding="2dp"
+            android:background="@drawable/button_wg"
+            android:id="@+id/bnx"/>
+
+        <!--<LinearLayout
+            style="?android:attr/buttonStyle"
+            android:orientation="horizontal"
+            android:id="@+id/button_random"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            >-->
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:src="@drawable/ic_copy"
+            android:layout_gravity="bottom"
+            android:background="@drawable/button_wg"
+            android:id="@+id/copya"/>
+
+            <ImageView
+                android:padding="2dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_wg"
+                android:layout_gravity="bottom"
+                android:id="@+id/random_img"/>
+        </LinearLayout>
+    <!--</LinearLayout>-->
+
+</LinearLayout>

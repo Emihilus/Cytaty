@@ -1,0 +1,10 @@
+
+    <android.support.v7.widget.Toolbar
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/toolbar_default"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:background="#a0808080"
+        android:layout_height="wrap_content">
+    </android.support.v7.widget.Toolbar>
